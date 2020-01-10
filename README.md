@@ -10,5 +10,6 @@
 **mnist_GAN: MNIST GAN model**    
 
 ## data
-**MNIST**  
+**MNIST dataset**  
+
 **number_data: my number data**  
