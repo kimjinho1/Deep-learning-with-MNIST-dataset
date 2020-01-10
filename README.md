@@ -1,5 +1,5 @@
 ## MNIST_Keras
-**mnist_model: MNIST CNN model**    
+**mnist_model: make MNIST CNN model**    
 
 **predict_number: predict MNIST number using mnist_model**  
 
@@ -9,3 +9,6 @@
 
 **mnist_GAN: MNIST GAN model**    
 
+## data
+**MNIST**  
+**number_data: my number data**  
