@@ -7,7 +7,7 @@
 
 **predict_ROI_number: predict MNIST number using ROI and mnist_model**    
 
-**mnist_GAN: MNIST GAN model**    
+**mnist_GAN_model: MNIST GAN model**    
 
 ## data
 **MNIST dataset**  
