@@ -12,4 +12,4 @@
 ## data
 **MNIST dataset**  
 
-**number_data: my handwrite data**  
+**number_data: my handwritten dataset**  
